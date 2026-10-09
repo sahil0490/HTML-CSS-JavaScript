@@ -1,0 +1,332 @@
+*{
+  margin:0;
+  font-family: Arial;
+  border: border-box;
+  padding: 0;
+  
+}
+
+
+
+.inslogo4{
+  background-image: url("inslogo4.jpg");
+
+
+  margin:0;
+    padding:0;
+    
+  
+    background-size: 100%auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    margin-top:30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+  background-color: white ;
+  height:430px;
+  width:350px;
+  margin-top:200px;
+  border-radius:10px;
+  
+  
+  
+}
+
+
+.signup{
+  
+  display:flex;
+  justify-content: center;
+  margin-top:15px;
+  font-weight: 800;
+  color:#0B1F6B;
+  font-size: 1.5rem;
+  
+  
+}
+.username-add{
+  
+  display: flex;
+  justify-content: center;
+  margin-top:20px;
+  font-size: 29px;
+  
+}
+
+
+.username-logo{
+  
+  display:flex;
+  align-items: center;
+  margin-top:9px;
+  
+  
+} 
+
+
+
+
+
+
+
+
+input{
+  
+  height:40px;
+  border-radius: 3px;
+  
+  border:1px solid #ccc;
+  width:250px;
+  
+}
+
+.password-add{
+  display:flex;
+  justify-content: center;
+  margin-top:20px;
+  font-size:28px;
+  
+  
+}
+
+.password-logo{
+  
+  margin-top:9px;
+  
+}
+
+.fg-pass{ 
+  
+  margin-top:10px;
+  font-size:10px;
+  display:flex;
+  justify-content: flex-end;
+  color:blue;
+  margin-right:30px;
+  
+  
+}
+
+.fg-pass a {
+  text-decoration: none;
+  color:blue;
+}
+
+button{
+  display: inline-block;
+  Margin-left:69px;
+  margin-top:25px;
+  
+
+  
+  width:220px;
+  height:40px;
+  font-weight: 700;
+  background-color:#FFCB56;
+ border-radius:6px;
+ border:1px solid #ccc;
+  
+}
+
+.divider {
+    width: 210px;
+    margin: 25px 20px 20px 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    
+}
+
+.divider .line {
+    width: 80px;
+    height: 1px;
+    background-color: #d6d6d6;
+    flex: none;
+}
+
+.divider span {
+    font-size: 16px;
+    color: #555;
+    line-height: 1;
+}
+
+
+.login-ggl{
+
+  height:40px;
+  width:250px;
+  border:1px solid gray;
+  display:flex;
+  margin-left:60px;
+  border-radius:6px ;
+  justify-content: center;
+  align-items: center;
+  background-color:#f4f4f4;
+  
+  
+}
+
+.ggl-logo {
+  
+height:20px;
+width:30px;
+
+background-image: url("ggl.jpg");
+background-size: contain;
+background-repeat: no-repeat;
+  
+}
+
+.login-ggl a {
+  text-decoration: none;
+  color:black;
+}
+
+
+.dha{
+  
+  height:40px;
+  width:250px;
+  border:0px solid black;
+  color:#666666;
+  margin-left:60px;
+  margin-top:30px;
+  border-radius: 6px;
+  font-size: 13px;
+  display:flex;
+  justify-content: center;
+  
+  
+}
+
+/* page 2 css */
+
+
+
+
+ .page2{
+  background-image: url("bgimage2.jpg");
+  margin:0;
+    padding:0;
+    
+  
+    background-size: 100%auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+
+  
+
+} 
+
+
+.hi{
+
+  background-color: #17202a;
+  height:40px;
+  color:white;
+  font-size: 16px;
+  font-weight: 700;
+  
+}
+
+/* body of 2nd page  */
+
+
+
+.options{
+
+  
+  
+  border:0px solid black;
+
+margin: 3px;
+width: 800px;
+height: 350px;
+border: 0px solid black;
+display: flex;
+justify-content: space-evenly;
+
+
+
+
+
+
+}
+
+
+.box {
+
+
+width: 140px;
+height: 160px;
+margin: 9px;
+border-radius: 6px;
+
+background-color: whitesmoke;
+
+}
+
+
+.box-img{
+  height:140px;
+  
+  
+  
+background-size: cover;
+background-repeat: no-repeat;
+border-radius: 6px;
+
+
+
+}
+
+
+.appoint p {
+  margin-top: 2px;
+  font-size: 12px;
+  color: #007185;
+}
+
+
+
+
+.box:hover{
+
+  border:2px solid #e4e6eb;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
